@@ -1,0 +1,14 @@
+D:\GitHub\THR PBO\THR-PBO\ThrPbo\ThrPbo\bin\Debug\net8.0\ThrPbo.exe
+D:\GitHub\THR PBO\THR-PBO\ThrPbo\ThrPbo\bin\Debug\net8.0\ThrPbo.deps.json
+D:\GitHub\THR PBO\THR-PBO\ThrPbo\ThrPbo\bin\Debug\net8.0\ThrPbo.runtimeconfig.json
+D:\GitHub\THR PBO\THR-PBO\ThrPbo\ThrPbo\bin\Debug\net8.0\ThrPbo.dll
+D:\GitHub\THR PBO\THR-PBO\ThrPbo\ThrPbo\bin\Debug\net8.0\ThrPbo.pdb
+D:\GitHub\THR PBO\THR-PBO\ThrPbo\ThrPbo\obj\Debug\net8.0\ThrPbo.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\THR PBO\THR-PBO\ThrPbo\ThrPbo\obj\Debug\net8.0\ThrPbo.AssemblyInfoInputs.cache
+D:\GitHub\THR PBO\THR-PBO\ThrPbo\ThrPbo\obj\Debug\net8.0\ThrPbo.AssemblyInfo.cs
+D:\GitHub\THR PBO\THR-PBO\ThrPbo\ThrPbo\obj\Debug\net8.0\ThrPbo.csproj.CoreCompileInputs.cache
+D:\GitHub\THR PBO\THR-PBO\ThrPbo\ThrPbo\obj\Debug\net8.0\ThrPbo.dll
+D:\GitHub\THR PBO\THR-PBO\ThrPbo\ThrPbo\obj\Debug\net8.0\refint\ThrPbo.dll
+D:\GitHub\THR PBO\THR-PBO\ThrPbo\ThrPbo\obj\Debug\net8.0\ThrPbo.pdb
+D:\GitHub\THR PBO\THR-PBO\ThrPbo\ThrPbo\obj\Debug\net8.0\ThrPbo.genruntimeconfig.cache
+D:\GitHub\THR PBO\THR-PBO\ThrPbo\ThrPbo\obj\Debug\net8.0\ref\ThrPbo.dll
